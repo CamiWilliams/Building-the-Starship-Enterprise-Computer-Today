@@ -1,14 +1,14 @@
 # Initialize Ship Commander
 
-In this section of the workshop, you will create and configure a skill using the Alexa Skills Kit SDK in NodeJS and AWS Lambda. When launched, this Alexa skill will have the customer interact with a Riddle Game skill that features a simple voice interaction.
+In this section of the workshop, you will create and configure a skill using the Alexa Skills Kit SDK in NodeJS and Alexa Hosted Skills. When launched, this Alexa skill will have the customer interact with a Ship Commander skill that features a simple voice interaction.
 
 ## Objectives
 
 After completing this workshop, you will be able to:
 
 - Create an Amazon Developer account.
-- Create and configure a new skill using the Alexa Skills Kit and AWS Lambda
-- Create and configure Intents, Sample Utterances, and Slots
+- Create and configure a new skill using the Alexa Skills Kit and Alexa Hosted Skills
+- Create and configure Intents and sample Utterances
 - Test a skill using Lambda and an Echo device.
 
 ## Prerequisites
