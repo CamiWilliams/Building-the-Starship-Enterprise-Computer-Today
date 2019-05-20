@@ -9,7 +9,7 @@ After completing this workshop, you will be able to:
 - Create an Amazon Developer account.
 - Create and configure a new skill using the Alexa Skills Kit and Alexa Hosted Skills
 - Create and configure Intents and sample Utterances
-- Test a skill using Lambda and an Echo device.
+- Test a skill using the Alexa Testing Simulator and an Echo device.
 
 ## Prerequisites
 
